@@ -10,7 +10,7 @@
 
 ---
 
-# 💻 About Me
+# About Me
 
 ```text
                 ██████╗ ███╗   ███╗
@@ -41,9 +41,9 @@ Building scalable backend systems powered by AI.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🧠 Diagnyx
+## Diagnyx
 
 AI Medical Report Interpreter
 
@@ -53,7 +53,7 @@ AI Medical Report Interpreter
 
 ---
 
-## ❤️ BloodConnect
+## BloodConnect
 
 Smart Blood Donation Platform
 
@@ -66,7 +66,7 @@ Smart Blood Donation Platform
 
 ---
 
-## 🚀 LostFound
+##  LostFound
 
 AI-powered Lost & Found Platform
 
@@ -89,7 +89,7 @@ AI-powered Lost & Found Platform
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -101,7 +101,7 @@ AI-powered Lost & Found Platform
 
 ---
 
-# 🔥 Streak
+# Streak
 
 <p align="center">
 
@@ -111,7 +111,7 @@ AI-powered Lost & Found Platform
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <p align="center">
 
@@ -121,7 +121,7 @@ AI-powered Lost & Found Platform
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p>
 
