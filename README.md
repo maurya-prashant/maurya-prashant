@@ -1,89 +1,144 @@
 <div align="center">
 
-# ` prashant maurya `
+# Hi 👋 I'm Prashant Maurya
 
-**backend engineer — building where systems meet intelligence**
+### Backend Engineer • AI Developer • Java Enthusiast
 
-<br>
-
-[![gmail](https://img.shields.io/badge/-mauryaprashant1111@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:mauryaprashant1111@gmail.com)
-[![linkedin](https://img.shields.io/badge/-linkedin-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-maurya-986645331/)
-[![github](https://img.shields.io/badge/-github-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/maurya-prashant)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Spring+Boot+Developer;AI+Application+Developer;FastAPI+Developer;Learning+Distributed+Systems;Open+Source+Learner"/>
 
 </div>
 
-<br>
+---
 
-```
-I design APIs that don't fall over, and pipelines that reason.
-Java + Spring Boot on one hand, LLM agents on the other.
-```
+```text
+██████╗ ██████╗  █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
+██████╔╝██████╔╝███████║███████╗███████║███████║██╔██╗ ██║   ██║
+██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║
+██║     ██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║   ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝
 
-<br>
+███╗   ███╗ █████╗ ██╗   ██╗██████╗ ██╗   ██╗ █████╗
+████╗ ████║██╔══██╗██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗
+██╔████╔██║███████║██║   ██║██████╔╝ ╚████╔╝ ███████║
+██║╚██╔╝██║██╔══██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║
+██║ ╚═╝ ██║██║  ██║╚██████╔╝██║  ██║   ██║   ██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 
-### stack
+──────────────────────────────────────────────────────────
 
-<div align="center">
+OS................. Windows 11
+Editor............. IntelliJ IDEA
+Languages.......... Java, Python, SQL
+Backend............ Spring Boot, FastAPI
+AI................. LangChain, LangGraph
+Database........... PostgreSQL, MySQL, MongoDB
+Cloud.............. Docker, Azure
 
-`Java`&nbsp;·&nbsp;`Python`&nbsp;·&nbsp;`Spring Boot`&nbsp;·&nbsp;`FastAPI`&nbsp;·&nbsp;`LangChain`&nbsp;·&nbsp;`LangGraph`&nbsp;·&nbsp;`PostgreSQL`&nbsp;·&nbsp;`MySQL`&nbsp;·&nbsp;`JWT / Spring Security`&nbsp;·&nbsp;`React`
+Projects........... LostFound
+                   BloodConnect
+                   Diagnyx
 
-</div>
-
-<br>
-
-### selected work
-
-<table>
-<tr>
-<td width="100%">
-
-**🩺 Diagnyx** — [diagynx.netlify.app](https://diagynx.netlify.app/)
-<br><sub>agentic AI medical report interpretation</sub>
-
-A 9-stage LangGraph pipeline that reads a medical report and reasons through it like an analyst would — ingest, validate, synthesize. Rule-based safety checks keep the LLM honest against real clinical thresholds.
-
-<sub>`FastAPI` `LangGraph` `LangChain` `Groq` `OCR`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**🔍 Lost & Found**
-<br><sub>semantic matching microservices</sub>
-
-Spring Boot and FastAPI running side by side — one owns the business logic, the other owns the embeddings. A hybrid ranking model (semantic + category + fuzzy location) hits **85% match accuracy**.
-
-<sub>`Spring Boot` `Sentence Transformers` `MySQL` `JWT`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**🩸 BloodConnect** — [bloodconnect-app-eight.vercel.app](https://bloodconnect-app-eight.vercel.app/)
-<br><sub>geospatial blood donation platform</sub>
-
-Matches donors to hospitals by proximity using the Haversine formula, while enforcing compatibility rules and a 56-day donation cooldown behind role-based access.
-
-<sub>`Spring Boot` `PostgreSQL` `Haversine` `React`</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### currently
-
-```
-🎓  B.Tech, CSE — Babu Banarasi Das University, Lucknow (2023–2027)
-🧠  going deeper on agentic workflows & RAG
-🛠️  always shipping something backend + AI shaped
+Current Goal:
+Building scalable backend systems powered by AI.
 ```
 
-<br>
+---
 
-<div align="center">
-<sub>thanks for stopping by — say hi via <a href="mailto:mauryaprashant1111@gmail.com">email</a> or <a href="https://www.linkedin.com/in/prashant-maurya-986645331/">linkedin</a></sub>
-</div>
+#  Featured Projects
+
+## Diagnyx
+
+AI Medical Report Interpreter
+
+**Tech**
+
+`FastAPI` `LangGraph` `Groq` `OCR` `Python`
+
+---
+
+## BloodConnect
+
+Smart Blood Donation Platform
+
+**Tech**
+
+`Spring Boot`
+`PostgreSQL`
+`JWT`
+`REST API`
+
+---
+
+##  LostFound
+
+AI-powered Lost & Found Platform
+
+**Tech**
+
+`Spring Boot`
+`MySQL`
+`Java`
+`REST`
+
+---
+
+# 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,mongodb,docker,azure,git,github,linux,vscode,idea"/>
+
+</p>
+
+---
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurya-prashant&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-prashant&layout=compact&theme=tokyonight)
+
+---
+
+# Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=maurya-prashant&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+#  Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maurya-prashant&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/maurya-prashant">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=maurya-prashant&style=for-the-badge)
+
+</p>
