@@ -93,13 +93,7 @@ AI-powered Lost & Found Platform
 
 ---
 
-# GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurya-prashant&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurya-prashant&layout=compact&theme=tokyonight)
-
----
 
 # Streak
 
