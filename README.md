@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="https://www.linkedin.com/in/prashant-maurya-986645331/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:mauryaprashant1111@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/maurya-prashant">
@@ -25,14 +25,14 @@
 I'm a backend engineer who enjoys building systems that are **reliable at the core** and **intelligent at the edges** — REST APIs, service architecture, and increasingly, AI-driven applications layered on top of solid backend fundamentals.
 
 ```yaml
-role:        Backend Engineer, AI Application Developer
+role:        Backend Engineer, AI Application Developer, AI Engineer
 languages:   Java, Python, SQL
 backend:     Spring Boot, FastAPI
-ai_stack:    LangChain, LangGraph, RAG pipelines
-databases:   PostgreSQL, MySQL, MongoDB
+ai_stack:    LangChain, LangGraph, RAG pipelines, RAG
+databases:   MySQL, SQL Server
 infra:       Docker, Azure, Git
-editor:      IntelliJ IDEA
-currently:   Learning distributed systems & scalable architecture
+editor:      IntelliJ IDEA, VS Code
+currently:   Learning distributed systems, Agentic AI & scalable architecture
 ```
 
 <br/>
@@ -117,7 +117,7 @@ Always shipping something new — check my pinned repos for the latest work.
 
 ### Let's Connect
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="https://www.linkedin.com/in/prashant-maurya-986645331/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="https://github.com/maurya-prashant">
