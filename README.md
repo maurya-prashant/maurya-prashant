@@ -91,7 +91,7 @@ Always shipping something new — check my pinned repos for the latest work.
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,mongodb,docker,azure,git,github,linux,vscode,idea&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,mysql,postgres,docker,azure,git,github,linux,vscode,idea&theme=dark"/>
 </p>
 
 <br/>
