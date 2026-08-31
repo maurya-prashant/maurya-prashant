@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Prashant%20Maurya&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Developer%20%7C%20Java%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Prashant%20Maurya&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Engineer%20%7C%20Java%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Spring+Boot+%7C+FastAPI+%7C+Java;Shipping+AI-powered+applications;LangChain+%7C+LangGraph+%7C+RAG;Always+learning+distributed+systems"/>
 
